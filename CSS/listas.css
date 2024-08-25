@@ -1,0 +1,31 @@
+/* Estilos para listas no ordenadas */
+.lista-no-ordenada {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.lista-no-ordenada li {
+    margin-bottom: 5px;
+}
+
+/* Estilos para listas ordenadas */
+.lista-ordenada {
+    list-style-type: decimal;
+    padding-left: 20px;
+}
+
+.lista-ordenada li {
+    margin-bottom: 5px;
+}
+
+/* Estilos para listas de definiciones */
+.lista-definiciones dt {
+    font-weight: bold;
+    color: #4CAF50;
+    margin-top: 10px;
+}
+
+.lista-definiciones dd {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
